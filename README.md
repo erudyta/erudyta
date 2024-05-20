@@ -24,5 +24,17 @@
 
 ## Languages and Tools:
 <div align="left">
-  <a href="https://code.visualstudio.com/" style="padding-right:10px;"><img alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" /></a>
+  <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="40px" src="https://www.svgrepo.com/show/452129/vs-code.svg" /></a> &emsp;
+  <a href="https://html.com/"><img alt="HTML" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /></a> &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a> &emsp;
+  <a href="https://www.javascript.com/"><img alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></a> &emsp;
+  <a href="https://react.dev/"><img alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /></a> &emsp;
+  <a href="(https://tailwindcss.com/"><img alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></a> &emsp;
 </div>
+<br/>
+
+## Stats:
+<div align="left">
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erudyta&layout=compact"></img>
+</div>
+
