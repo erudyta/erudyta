@@ -18,7 +18,7 @@
 💻  I enjoy programming<br/><br/>
 🌱  I’m currently learning everything 🤪 <br/><br/>
 ⚡  Fun fact: I 💙 esport <br/><br/>
-📧  Contact me: kamilpyszniak@outlook.com<br/><br/>
+📧  Contact me: x.pyszniak@gmail.com<br/><br/>
 </div>
 <br/>
 
